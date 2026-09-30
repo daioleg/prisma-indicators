@@ -1,0 +1,9 @@
+[project]
+name = "prisma-indicators"
+version = "0.1.0"
+description = "Indicadores de Cloud Security a partir das APIs CSPM do Prisma Cloud"
+requires-python = ">=3.9"
+dependencies = ["requests>=2.32"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,87 @@
+{
+  "timestamp": 1790722800000,
+  "requestedTimestamp": 1790727715587,
+  "summary": {
+    "timestamp": 0,
+    "failedResources": 565193,
+    "passedResources": 9895909,
+    "totalResources": 10461102,
+    "highSeverityFailedResources": 4532,
+    "mediumSeverityFailedResources": 28391,
+    "lowSeverityFailedResources": 529081,
+    "criticalSeverityFailedResources": 63,
+    "informationalSeverityFailedResources": 49430,
+    "criticalVulnerabilityFailedResources": 17054,
+    "highVulnerabilityFailedResources": 22270,
+    "mediumVulnerabilityFailedResources": 21564,
+    "lowVulnerabilityFailedResources": 22429,
+    "totalVulnerabilityFailedResources": 23044
+  },
+  "groupedAggregates": [
+    {
+      "cloudTypeName": "aws",
+      "resourceTypeName": "AWS Auto Scaling Group",
+      "failedResources": 0,
+      "passedResources": 266,
+      "totalResources": 266,
+      "highSeverityFailedResources": 0,
+      "mediumSeverityFailedResources": 0,
+      "lowSeverityFailedResources": 0,
+      "criticalSeverityFailedResources": 0,
+      "informationalSeverityFailedResources": 0,
+      "allowDrillDown": false
+    },
+    {
+      "cloudTypeName": "azure",
+      "resourceTypeName": "Azure CDN Routes",
+      "failedResources": 0,
+      "passedResources": 4,
+      "totalResources": 4,
+      "highSeverityFailedResources": 0,
+      "mediumSeverityFailedResources": 0,
+      "lowSeverityFailedResources": 0,
+      "criticalSeverityFailedResources": 0,
+      "informationalSeverityFailedResources": 0,
+      "allowDrillDown": false
+    },
+    {
+      "cloudTypeName": "aws",
+      "resourceTypeName": "AWS Auto Scaling Launch Configuration",
+      "failedResources": 58,
+      "passedResources": 1,
+      "totalResources": 59,
+      "highSeverityFailedResources": 0,
+      "mediumSeverityFailedResources": 7,
+      "lowSeverityFailedResources": 0,
+      "criticalSeverityFailedResources": 0,
+      "informationalSeverityFailedResources": 55,
+      "allowDrillDown": false
+    },
+    {
+      "cloudTypeName": "gcp",
+      "resourceTypeName": "Google Integration Connectors Provider",
+      "failedResources": 0,
+      "passedResources": 782,
+      "totalResources": 782,
+      "highSeverityFailedResources": 0,
+      "mediumSeverityFailedResources": 0,
+      "lowSeverityFailedResources": 0,
+      "criticalSeverityFailedResources": 0,
+      "informationalSeverityFailedResources": 0,
+      "allowDrillDown": false
+    },
+    {
+      "cloudTypeName": "azure",
+      "resourceTypeName": "Azure Defender for Cloud Pricing",
+      "failedResources": 0,
+      "passedResources": 1080,
+      "totalResources": 1080,
+      "highSeverityFailedResources": 0,
+      "mediumSeverityFailedResources": 0,
+      "lowSeverityFailedResources": 0,
+      "criticalSeverityFailedResources": 0,
+      "informationalSeverityFailedResources": 0,
+      "allowDrillDown": false
+    }
+  ]
+}
